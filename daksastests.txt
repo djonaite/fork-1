@@ -1,0 +1,1 @@
+Šis if fails, kur testēt "dakšu" (fork).
